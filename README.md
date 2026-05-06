@@ -107,6 +107,20 @@ streamlit run ui/st.py
 - Adaptive fraud scoring
 
 ---
+---
+
+# 📷 Project Screenshots
+
+## Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+## Fraud Alert Terminal
+![Terminal](screenshots/terminal.png)
+
+## FastAPI Swagger UI
+![API](screenshots/api.png)
+
+---
 
 #  Author
 
